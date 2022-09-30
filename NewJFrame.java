@@ -6,7 +6,7 @@ package javaapplication2;
 
 /**
  *
- * @author Mohsin
+ * @author Dua
  */
 public class NewJFrame extends javax.swing.JFrame {
 
@@ -54,7 +54,7 @@ public class NewJFrame extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(java.awt.Color.orange);
 
-        jTextField1.setText("faiza");
+        jTextField1.setText("dua");
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);
